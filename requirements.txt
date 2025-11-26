@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+PyQt5
+pygame
+lxml
+pillow
